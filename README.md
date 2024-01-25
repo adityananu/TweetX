@@ -81,7 +81,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 The application is deployed and hosted on [Vercel](https://vercel.com/).
 
-[Live Demo](https://your-live-demo-url.netlify.app/)
+[Live Demo](https://tweetx-assign.vercel.app/)
 
 ## Created(ME)
 
