@@ -2,6 +2,7 @@
 
 TweetX A simple social media application allowing users to sign up, post short messages, follow other users, and view a personalized feed.
 
+
 ## Technologies Used
 
 - React
@@ -82,6 +83,10 @@ Make sure you have Node.js and npm installed on your machine.
 The application is deployed and hosted on [Vercel](https://vercel.com/).
 
 [Live Demo](https://tweetx-assign.vercel.app/)
+
+## Use this Login if you dont want to showUP😊
+-Email: test@gmail.com
+-Password: test123 
 
 ## Created(ME)😎
 
