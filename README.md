@@ -1,4 +1,4 @@
-# Project Name : TweetX
+# Project Name : TweetX🤳
 
 TweetX A simple social media application allowing users to sign up, post short messages, follow other users, and view a personalized feed.
 
@@ -10,7 +10,7 @@ TweetX A simple social media application allowing users to sign up, post short m
 - UUID
 - React Router DOM
 
-## Getting Started
+## Getting Started ☕
 
 ### Prerequisites
 
@@ -38,7 +38,7 @@ Make sure you have Node.js and npm installed on your machine.
 
     Visit [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
-## Project Structure
+## Project Structure 📄
 
 - `public`: Static assets and HTML template
 - `src`:
@@ -57,7 +57,7 @@ Make sure you have Node.js and npm installed on your machine.
   - `App.js`: Main application component
   - `index.js`: Entry point of the application
 
-## Features
+## Features 👍
 
 1. **User Authentication**
    - Users can sign up and log in to access the application.
@@ -77,16 +77,21 @@ Make sure you have Node.js and npm installed on your machine.
 6. **Logout**
    - Users can log out of the application.
 
-## Deployment
+## Deployment 🎉
 
 The application is deployed and hosted on [Vercel](https://vercel.com/).
 
 [Live Demo](https://tweetx-assign.vercel.app/)
 
-## Created(ME)
+## Created(ME)😎
 
 - Aditya : Personal Portfolio - [https://aditya-fawn.vercel.app/]
 
 ## suggestion/feedback
-
+About to Add functionalities
+**Adding Responsiveness to the project
+**Control the Structure
+**Structuring the code 
+**Control states by implementing state managment libraries
+...... ✌😅
 feel free to give suggestion and feedback to the application which was in development way and if have any sugestion email: [adityananu157@gmail.com]
