@@ -82,7 +82,6 @@ const Users = () => {
   }, []);
 
 
-
   return (
     <div className="p-5 h-[89vh] ">
 
@@ -95,7 +94,7 @@ const Users = () => {
                   <div className="h-[50px] w-[50px] rounded-full border"></div>
                   <div>
                     <p className="font-semibold">{otherUser.email.split('@')[0]}</p>
-                    <p className="text-sm">Following: 2</p>
+                    <p className="text-sm">Followers: {otherUser.followers.length}</p>
                   </div>
                 </div>
                 {currentUser &&
